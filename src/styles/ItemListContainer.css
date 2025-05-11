@@ -1,0 +1,11 @@
+.greeting-container {
+    text-align: center;
+    margin: 50px 0;
+  }
+  
+  .greeting-title {
+    font-size: 2rem;
+    color: #2c3e50;
+    font-weight: bold;
+  }
+  
